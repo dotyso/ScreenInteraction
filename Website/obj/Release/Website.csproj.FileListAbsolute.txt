@@ -1,0 +1,12 @@
+D:\Work\develop\demo2\WebApplication1\bin\WebApplication1.dll
+D:\Work\develop\demo2\WebApplication1\bin\WebApplication1.pdb
+D:\Work\develop\demo2\WebApplication1\obj\Release\WebApplication1.dll
+D:\Work\develop\demo2\WebApplication1\obj\Release\WebApplication1.pdb
+D:\Work\develop\demo2\Website\bin\Website.dll
+D:\Work\develop\demo2\Website\bin\Website.pdb
+D:\Work\develop\demo2\Website\obj\Release\Website.dll
+D:\Work\develop\demo2\Website\obj\Release\Website.pdb
+D:\Work\develop\Divino\Website\bin\Website.dll
+D:\Work\develop\Divino\Website\bin\Website.pdb
+D:\Work\develop\Divino\Website\obj\Release\Website.dll
+D:\Work\develop\Divino\Website\obj\Release\Website.pdb

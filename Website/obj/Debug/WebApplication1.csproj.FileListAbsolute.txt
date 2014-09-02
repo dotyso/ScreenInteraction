@@ -1,0 +1,8 @@
+D:\Work\develop\Demo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Work\develop\Demo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Work\develop\Demo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Work\develop\Demo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\新建文件夹\demo\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\新建文件夹\demo\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\新建文件夹\demo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\新建文件夹\demo\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

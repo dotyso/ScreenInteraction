@@ -1,0 +1,16 @@
+D:\Work\develop\Divino\ScreenPlayer\bin\Debug\ScreenPlayer.exe.config
+D:\Work\develop\Divino\ScreenPlayer\bin\Debug\ScreenPlayer.exe
+D:\Work\develop\Divino\ScreenPlayer\bin\Debug\ScreenPlayer.pdb
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\MainWindow.baml
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\Resources\Button.baml
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\Resources\Shared.baml
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\Resources\Slider.baml
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\App.baml
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\MainWindow.g.cs
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\App.g.cs
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer_MarkupCompile.cache
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer.g.resources
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer.Properties.Resources.resources
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer.csproj.GenerateResource.Cache
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer.exe
+D:\Work\develop\Divino\ScreenPlayer\obj\x86\Debug\ScreenPlayer.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f43693c8-f148-48b8-9b9b-75b743c00966" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8080/MediaService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MediaService.xsd" MetadataType="Schema" ID="125a0c1a-6c38-4015-9e4a-a10e38887983" SourceId="1" SourceUrl="http://localhost:8080/MediaService?xsd=xsd1" />
+    <MetadataFile FileName="MediaService1.xsd" MetadataType="Schema" ID="fa6567e4-0988-4622-b139-68c2d272d87f" SourceId="1" SourceUrl="http://localhost:8080/MediaService?xsd=xsd0" />
+    <MetadataFile FileName="MediaService.disco" MetadataType="Disco" ID="0a0ce3bf-bc15-43c9-9367-222005446506" SourceId="1" SourceUrl="http://localhost:8080/MediaService?disco" />
+    <MetadataFile FileName="MediaService.wsdl" MetadataType="Wsdl" ID="aefebbb2-4430-4779-8a9a-04607345f2cf" SourceId="1" SourceUrl="http://localhost:8080/MediaService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
