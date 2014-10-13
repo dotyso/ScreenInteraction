@@ -43,14 +43,14 @@ namespace ScreenPlayer
         private double _normalLeft;
         private static MainWindow _mainWindow;
 
-        private PlayMode _playMode = PlayMode.Random;
+        private PlayMode _playMode = PlayMode.Sequence;
         private const int TEXT_LINE_NUM = 99;
         private int SCREEN_LINE_NUM = 16;
         private List<int> _availableScreenLines = new List<int>();
         private int[] _textLines = new int[TEXT_LINE_NUM];
 
         private SolidColorBrush[] _fontColors = new SolidColorBrush[] { Brushes.White, Brushes.Black, Brushes.Red, Brushes.Blue, Brushes.LightGreen, Brushes.Yellow };
-        private int[] _fontSizes = new int[] { 40, 45, 50 };
+        private int[] _fontSizes = new int[] { 35, 45, 55 };
 
         private int SCREEN_HALF = (int)(System.Windows.SystemParameters.PrimaryScreenWidth * 0.7);
 
@@ -58,6 +58,7 @@ namespace ScreenPlayer
         {
             InitializeComponent();
 
+            /*
             try
             {
                 if (DateTime.Now.Year != 2014)
@@ -96,6 +97,7 @@ namespace ScreenPlayer
             catch {
                 Environment.Exit(0);
             }
+             * */
 
             tmrProgress = new DispatcherTimer();
             //设置计时器的时间间隔为1秒
@@ -175,7 +177,7 @@ namespace ScreenPlayer
 
             Random rdm = new Random(DateTime.Now.Second);
             int second = rdm.Next(7, 8);
-            int fontSize = rdm.Next(35, 45);
+            int fontSize = rdm.Next(35, 55);
             int fontColorIndex = 0;
             
             return Play(content, second, fontSize, fontColorIndex);
